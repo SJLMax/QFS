@@ -3,7 +3,7 @@
 链接: https://pan.baidu.com/s/1i7idMVsdEkve4WLE0TewHw?pwd=ksn1 提取码: ksn1
 
 # model
-链接: https://pan.baidu.com/s/1tSxFvNXH95LWBDokw9Pm3A?pwd=6j40 提取码: 6j40
+链接: https://pan.baidu.com/s/1sWgel1BGkVU_qwzbaVnzmQ?pwd=gg5w 提取码: gg5w
 
 transformers==3.0.5
 
